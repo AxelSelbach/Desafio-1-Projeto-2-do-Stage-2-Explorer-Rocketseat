@@ -1,2 +1,2 @@
 # Desafio-1-Projeto-2-do-Stage-2-Explorer-Rocketseat
-Desafio projeto treine me
+Desafio projeto treine me, realizado sozinho com auxilios da comunidade no discord do Explorer da Rocketseat e alguns questionamentos a amigos que já são programados, gostei de como ficou o projeto final pois é realmente minha primeira aplicação que eu realizo do 0 sem ter algum educador da rocketseat me dizendo o que fazer e onde colocar tal coisa, apenas algumas dicas dos amigos e muita procura no google resultaram neste código, sei que provavelmente há muita coisa que posso melhorar nele mas com meu conhecimento atual não consigo realizar, por isso não posso parar de aprender para sempre me aprimorar e melhorar os códigos!
